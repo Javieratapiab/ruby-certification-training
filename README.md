@@ -6,4 +6,4 @@ Summary of the book "The Ruby Programming Language" in order to get the Ruby cer
 - Block and iterators
 - Assignment
 - Regexp and Range
-...
+- (...)
