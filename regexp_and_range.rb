@@ -34,7 +34,7 @@ puts generation
 # A method to ask the user to confirm something
 def are_you_sure?                   # define a method. Note question mark!
   loop do                           # Loop until we explicitly return
-    print 'Are you sure? [y/n]' # Ask the user a question
+    print 'Are you sure? [y/n]'     # Ask the user a question
     response = gets                 # Get her answer
     case response                   # Begin case conditional
     when /^[yY]/                    # If response begins with y or Y
